@@ -1,0 +1,15 @@
+.countDisplay{
+    text-align: center;
+    padding-top: 10px;
+    min-height: 60px;
+    font-size: 40px;
+    background: #247aa8;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.stop {
+    color: hotpink;
+    font-size: 60px;
+    font-weight: bold;
+}

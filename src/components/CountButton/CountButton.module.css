@@ -1,0 +1,10 @@
+.btn {
+    min-width: 100px;
+    font-size: 30px;
+    color: black;
+    border-radius: 20px;
+}
+.btn:hover {
+    opacity: 0.8;
+    background: #e3cc4e;
+}
